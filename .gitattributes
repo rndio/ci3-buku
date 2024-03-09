@@ -1,1 +1,6 @@
-system/* linguist-vendored
+/system/* linguist-vendored
+/application/* linguist-vendored
+
+/application/controllers/** linguist-detectable=true
+/application/views/** linguist-detectable=true
+/application/models/** linguist-detectable=true
